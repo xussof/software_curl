@@ -24,7 +24,7 @@ All dependencies will appear on requirements-software.yml file
     requirements-software.yml
 
     ---
-    - src: git@github.com:{{ github_repo_user }}/software_curl
+    - src: git@github.com:xussof/software_curl
       scm: git
       version: master
       name: software_curl
